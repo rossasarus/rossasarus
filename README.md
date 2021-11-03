@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there!
+
+I'm currently looking for opportunities to solve interesting problems with kind people. I love saying "I don't know, but I can find out", I love helping teammates, and I love taking friction out of experiences for end-users, devs, and everyone else.
+
+I've been working on a react / redux / nextjs / typescript site recently. 
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have my own IMDB page 😆
 
 <!--
 **rossasarus/rossasarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
